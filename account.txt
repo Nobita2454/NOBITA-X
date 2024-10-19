@@ -1,1 +1,128 @@
-Ariyan ar Mak Arohir kande falai xudi🥵💯
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261566959324559%22%3A%22MbZy6JYr%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.417Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "datr",
+        "value": "PtYSZ8M64Q8sr2mnos5xvWf5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "sb",
+        "value": "PtYSZ3ufmHf9SAxeWNAOc82X",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61566959324559",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "fr",
+        "value": "0HHC6xp1ciwa8DTEM.AWUw1-Ojzj0WTu--UR0anqTZTa4.BnEtY-..AAA.0.0.BnEtZ0.AWXgJ6omRow",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "xs",
+        "value": "32%3AcWRNxxFkKz4ahw%3A2%3A1729287797%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B729x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x729",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101334886%3BT%3A28821668",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2650%3Btimestamp%3A1729300116",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-19T01:08:42.418Z",
+        "lastAccessed": "2024-10-19T01:08:42.418Z"
+    }
+]
